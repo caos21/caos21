@@ -18,8 +18,8 @@ I am interested in C++/Python development for Data Science, Finance, Visualizati
 
 ### Projects
  
-- [Grodi](https://github.com/caos21/Grodi) [![Python](https://img.shields.io/badge/-Python-8fcf01?style=flat&logo=Python)](https://github.com/caos21/Grodi/blob/master/carrus.py) [![Cython](https://img.shields.io/badge/-Cython-9fefe1?style=flat&logo=Python)](https://github.com/caos21/Grodi/blob/master/coagulatio/coagulatio.pyx) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3568131.svg)](https://doi.org/10.5281/zenodo.3568131)
-- [ndust](https://github.com/caos21/ndust) [![C++](https://img.shields.io/badge/-C++-gray?style=flat&logo=c%2B%2B)](https://github.com/caos21/ndust/blob/master/include/enhancement.h) [![Python](https://img.shields.io/badge/-Python-8fcf01?style=flat&logo=Python)](https://github.com/caos21/ndust/tree/master/ndust) [![Figshare](https://img.shields.io/badge/FigShare-10.6084/m9.figshare.c.4206779-blue?style=flat&logo=Figshare)](https://doi.org/10.6084/m9.figshare.c.4206779)
+- [Grodi](https://github.com/caos21/Grodi) [![Python](https://img.shields.io/badge/-Python-8fcf01?style=flat-square&logo=Python)](https://github.com/caos21/Grodi/blob/master/carrus.py) [![Cython](https://img.shields.io/badge/-Cython-orange?style=flat-square&logo=Python)](https://github.com/caos21/Grodi/blob/master/coagulatio/coagulatio.pyx) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3568131.svg)](https://doi.org/10.5281/zenodo.3568131)
+- [ndust](https://github.com/caos21/ndust) [![C++](https://img.shields.io/badge/-C++-gray?style=flat-square&logo=c%2B%2B)](https://github.com/caos21/ndust/blob/master/include/enhancement.h) [![Python](https://img.shields.io/badge/-Python-8fcf01?style=flat-square&logo=Python)](https://github.com/caos21/ndust/tree/master/ndust) [![Figshare](https://img.shields.io/badge/FigShare-10.6084/m9.figshare.c.4206779-blue?style=flat-square&logo=Figshare)](https://doi.org/10.6084/m9.figshare.c.4206779)
 
 
 
