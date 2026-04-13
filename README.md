@@ -1,25 +1,25 @@
-## Hi there 👋
+### Hi there 👋, I am Ben Santos!
+---
+I'm a Privacy Engineer working in Machine Learning and Privacy Enhancing Techniques.
 
-<!--
-**caos21/caos21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- Federated Learning
+- Secure Multi-Party Computation
+- Private Set Intersection / Privacy-Preserving Record Linkage
+- Homomorphic Encryption
+- Differential Privacy
+- Synthetic Data
 
-I am interested in C++/Python development for Data Science, Finance, Visualizations, and Mathematical and Physical models.
+### Allô 👋, Je suis Benjamin Santos!
+---
+Je suis ingénieur en protection de la vie privée et je travaille dans le domaine de l'apprentissage automatique et des techniques de renforcement de la confidentialité.
 
-- 🔭 I’m currently working on my portfolio and two small projects.
-- 🌱 I’m currently learning on time series and visualizations.
-<!--- 👯 I’m looking to collaborate on open source: scipy, numpy, tensorflow, and opencv.-->
+- Apprentisage fédérée
+- Calcul multipartite sécurisée
+- Intersection d'ensembles privés (PSI) / Techniques de couplage préservant la vie privée (PPRL)
+- Chiffrement homomorphique
+- Confidentialité différentielle
+- Données synthétiques
 
-### Facts
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caos21&show_icons=true&theme=default&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caos21&hide=Jupyter%20Notebook&show_icons=true">
-</p>
-
-### Projects
- 
-- [Grodi](https://github.com/caos21/Grodi) [![Python](https://img.shields.io/badge/-Python-8fcf01?style=flat-square&logo=Python)](https://github.com/caos21/Grodi/blob/master/carrus.py) [![Cython](https://img.shields.io/badge/-Cython-orange?style=flat-square&logo=Python)](https://github.com/caos21/Grodi/blob/master/coagulatio/coagulatio.pyx) [![Figshare](https://img.shields.io/badge/DOI-10.5281/zenodo.3568131-blue?style=flat-square)](https://doi.org/10.5281/zenodo.3568131)
-- [ndust](https://github.com/caos21/ndust) [![C++](https://img.shields.io/badge/-C++-gray?style=flat-square&logo=c%2B%2B)](https://github.com/caos21/ndust/blob/master/include/enhancement.h) [![Python](https://img.shields.io/badge/-Python-8fcf01?style=flat-square&logo=Python)](https://github.com/caos21/ndust/tree/master/ndust) [![Figshare](https://img.shields.io/badge/FigShare-10.6084/m9.figshare.c.4206779-blue?style=flat-square&logo=Figshare)](https://doi.org/10.6084/m9.figshare.c.4206779)
 
 
 
