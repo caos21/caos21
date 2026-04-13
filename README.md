@@ -13,7 +13,7 @@ I'm a Privacy Engineer working in Machine Learning and Privacy Enhancing Techniq
 ---
 Je suis ingénieur en protection de la vie privée et je travaille dans le domaine de l'apprentissage automatique et des techniques de renforcement de la confidentialité.
 
-- Apprentisage fédérée
+- Apprentissage fédérée
 - Calcul multipartite sécurisée
 - Intersection d'ensembles privés (PSI) / Techniques de couplage préservant la vie privée (PPRL)
 - Chiffrement homomorphique
